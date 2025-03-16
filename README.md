@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/snyzeroff/snyzeroff/f187b25be691dfc765db743b38ecf728a9297947/github-user-contribution.svg" alt="Contribution Gif" width="1000"/>
+  <img src="https://raw.githubusercontent.com/snyzeroff/snyzeroff/170584b3ed620d5c7319457e71984a4aa95a9f3f/github-user-contribution.svg" alt="Contribution Gif" width="1000"/>
 </div>
 
 ---
