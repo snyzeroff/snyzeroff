@@ -46,9 +46,7 @@ I love exploring various coding fields and learning new things every day.
 ---
 
 ### 🚀 Featured Projects
-<div align="center">
-  <img src="https://raw.githubusercontent.com/snyzeroff/snyzeroff/f187b25be691dfc765db743b38ecf728a9297947/bouncing-circles.svg" alt="Contribution Gif" width="200"/>
-</div>
+  <img src="https://raw.githubusercontent.com/snyzeroff/snyzeroff/a8e41fb272a9e23d3ac1f50b768ee1947b5d85db/bouncing-circles.svg" alt="loader" width="200"/>
 
 ---
 
