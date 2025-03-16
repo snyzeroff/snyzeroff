@@ -32,7 +32,7 @@ I love exploring various coding fields and learning new things every day.
 ## 📊 GitHub Statistic
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=snyzeroff&theme=dracula&show_icons=true&hide_border=true&count_private=true"alt="Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snyzeroff&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=snyzeroff&theme=dracula&show_icons=true&hide_border=true&count_private=true"alt="Stats" width="350"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snyzeroff&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="315"/>
     <img src="https://streak-stats.demolab.com?user=snyzeroff&theme=dracula&hide_border=true" alt="Contributions" width="500"/>
 </div>
 
