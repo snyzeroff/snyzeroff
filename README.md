@@ -12,15 +12,13 @@ I love exploring various coding fields and learning new things every day.
 ---
 
 ### 🛠️ My Skills
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff" />
-</div>
+  [![SkillIcons](https://skillicons.dev/icons?i=py,js,html,css,nodejs,cs,cpp,docker,kali,unity,figma,blender,ps,notion&perline=7)](https://skillicons.dev)<br/>
+
+  ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+  ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/691571567863398430)
+  ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/691571567863398430)
+  [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/691571567863398430)](https://dev.discordprofiles.me/openspotify/691571567863398430)
+
 
 **Security :**  
 - 🛡️ Pentesting, Bug Bounty, CTF Challenges  
@@ -31,14 +29,12 @@ I love exploring various coding fields and learning new things every day.
 
 ---
 
-### 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snyzeroff&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snyzeroff&theme=dark" alt="GitHub Streak" width="49%"/>
-</div>
+
+## 📊 GitHub Statistic
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snyzeroff&layout=compact&theme=dark" alt="Most Used Languages" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=snyzeroff&theme=dracula&show_icons=true&hide_border=true&count_private=true"alt="Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snyzeroff&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="420"/>
+    <img src="https://streak-stats.demolab.com?user=snyzeroff&theme=dracula&hide_border=true" alt="Contributions" width="500"/>
 </div>
 
 ---
@@ -50,9 +46,9 @@ I love exploring various coding fields and learning new things every day.
 ---
 
 ### 🚀 Featured Projects
-- 🔒 **[Security Toolkit](https://github.com/snyzeroff/security-toolkit)** - A collection of tools for bug bounty and pentesting.  
-- 🎮 **[Unity Adventure](https://github.com/snyzeroff/unity-adventure)** - A thrilling 3D adventure game made with Unity.  
-- 🤖 **[AI Assistant](https://github.com/snyzeroff/ai-assistant)** - Machine Learning projects with Pandas and Python.  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/snyzeroff/snyzeroff/f187b25be691dfc765db743b38ecf728a9297947/bouncing-circles.svg" alt="Contribution Gif" width="200"/>
+</div>
 
 ---
 
