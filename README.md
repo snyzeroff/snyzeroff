@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/snyzeroff/your-gif-name.gif" alt="Welcome Gif" width="600"/>
+  <img src="https://github.com/snyzeroff/github-user-contribution.svg" alt="Welcome Gif" width="600"/>
 </div>
 
 ---
