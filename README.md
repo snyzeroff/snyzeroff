@@ -27,7 +27,7 @@ I love exploring various coding fields and learning new things every day.
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=snyzeroff&theme=dracula&show_icons=true&hide_border=true&count_private=true"alt="Stats" width="370"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snyzeroff&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="331"/>
-    <img src="https://streak-stats.demolab.com?user=snyzeroff&theme=dracula&hide_border=true" alt="Contributions" width="500"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snyzeroff&theme=dracula&hide_border=true&short_numbers=true" alt="Contributions" width="500"/>
 </div>
 
 ---
