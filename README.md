@@ -17,7 +17,7 @@ I love exploring various coding fields and learning new things every day.
 [![SkillIcons](https://skillicons.dev/icons?i=py,js,html,css,nodejs,cs,cpp,docker,kali,unity,figma,blender,ps,notion&perline=7)](https://skillicons.dev)<br/>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/691571567863398430)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://badge-kappa.vercel.app/)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/691571567863398430)](https://dev.discordprofiles.me/openspotify/691571567863398430)
 
 ---
